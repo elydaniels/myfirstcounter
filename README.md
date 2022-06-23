@@ -3,4 +3,4 @@
 ## Counter
 - Using HTML Code
 - Using CSS by ID
-- Using JacaScrips
+- Using JavaScrips
