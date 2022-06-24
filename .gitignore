@@ -1,3 +1,9 @@
+.gitignore
+.vscode
+.firebase
+.firebase.json
+..firebase
+
 # Logs
 logs
 *.log
